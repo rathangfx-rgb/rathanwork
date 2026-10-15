@@ -1,14 +1,20 @@
-# Welcome to your Lovable project
+# Rathanwork
+
+hi i want to create a portifolo website see the refarence link (https://margamedia.agency/) as pasted 
+in that i want Home Page, Contact and add Portifolio page 
+in the portiflio page for images collage form and the videos collage form and logos i created it should be auto rotating logos
 
 This project was built with [Lovable](https://lovable.dev).
 
+**Live app**: https://rathanwork.lovable.app
+
 ## Build with Lovable
 
-Open your project in the [Lovable editor](https://lovable.dev) and keep building.
+Continue developing this project in the [Lovable editor](https://lovable.dev/projects/a305ee92-770f-4074-a6fa-8a777341c599).
 
 - **Ship faster**: describe what you want to build and Lovable handles the code.
-- **Stay in sync**: connect the project to GitHub and every change made in Lovable is committed straight to your repository.
-- **Full ownership**: this code is yours. Push to your repository and your changes sync back into Lovable, ready for your next prompt.
+- **Stay in sync**: every change made in Lovable is committed straight to this repository.
+- **Full ownership**: this code is yours. Push to `main` on GitHub and your changes sync back into Lovable, ready for your next prompt.
 
 ## Development
 
@@ -20,10 +26,3 @@ cd <repository-name>
 npm i
 npm run dev
 ```
-
-## Built with
-
-- TanStack Start
-- TypeScript
-- React
-- Tailwind CSS
