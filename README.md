@@ -3,6 +3,7 @@
 hi i want to create a portifolo website see the refarence link (https://margamedia.agency/) as pasted 
 in that i want Home Page, Contact and add Portifolio page 
 in the portiflio page for images collage form and the videos collage form and logos i created it should be auto rotating logos
+in contact form email id : rathangfx@gnmail.com, mobile no: 9553178394
 
 This project was built with [Lovable](https://lovable.dev).
 
